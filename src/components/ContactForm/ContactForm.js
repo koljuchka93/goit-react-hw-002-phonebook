@@ -29,7 +29,7 @@ class ContactForm extends Component {
                         name="name"
                         value={name}
                         onChange={this.handleChange}
-                        placeholder="Andrii Hrytsai" />
+                        placeholder="Krylova Kateryna" />
                 </label>
                 <label className={styles.label}>Number
                     <input
